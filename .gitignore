@@ -1,0 +1,17 @@
+# Dataset
+data/
+*.nii
+*.nii.gz
+
+# Model files
+saved_models/
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
