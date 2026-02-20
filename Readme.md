@@ -150,7 +150,7 @@ It is **NOT a medical diagnosis tool**.
 
 ## 👨‍💻 Author
 
-Your Name
+Jitesh Sharma
 B.Tech Student | AI/ML Enthusiast
 
 ---
